@@ -9,6 +9,7 @@ print("datos de edad")
 print (np.ptp(a))
 
 print("cuartiles")
+
 print (np.percentile(a, 25,))
 print (np.percentile(a, 50,))
 print (np.percentile(a, 75,))
