@@ -1,7 +1,6 @@
 import os
-import time
 from markovbot import MarkovBot
-import unicodedata
+
 
 
 # Initialise a MarkovBot instance
